@@ -50,7 +50,7 @@ module OS
         when "10.5"
           "2.6.3"
         else
-          "2.7.8"
+          "2.7.9"
         end
       end
 
